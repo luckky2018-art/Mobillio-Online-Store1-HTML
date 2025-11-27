@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://mobillio-online-store1-8a8car.teleporthq.app/sitemap.xml
